@@ -1,0 +1,4 @@
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\RegistrationCPI\bin\x64\Debug\RegistrationCPI.dll
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\RegistrationCPI\bin\x64\Debug\RegistrationCPI.pdb
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\RegistrationCPI\obj\x64\Debug\RegistrationCPI.dll
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\RegistrationCPI\obj\x64\Debug\RegistrationCPI.pdb

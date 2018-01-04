@@ -1,0 +1,10 @@
+c:\users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\bin\Debug\RegisterCPI.exe.config
+c:\users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\bin\Debug\RegisterCPI.exe
+c:\users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\bin\Debug\RegisterCPI.pdb
+c:\users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\obj\Debug\RegisterCPI.csprojResolveAssemblyReference.cache
+c:\users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\obj\Debug\RegisterCPI.exe
+c:\users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\obj\Debug\RegisterCPI.pdb
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\bin\Debug\App.exe
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\bin\Debug\RegistrationCPI.dll
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\bin\Debug\App.pdb
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegisterCPI\bin\Debug\RegistrationCPI.pdb

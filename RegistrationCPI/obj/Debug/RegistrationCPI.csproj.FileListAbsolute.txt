@@ -1,0 +1,5 @@
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegistrationCPI\bin\Debug\RegistrationCPI.dll
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegistrationCPI\bin\Debug\RegistrationCPI.pdb
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegistrationCPI\obj\Debug\RegistrationCPI.dll
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegistrationCPI\obj\Debug\RegistrationCPI.pdb
+C:\Users\fadan\documents\visual studio 2015\Projects\RegisterCPI\RegistrationCPI\obj\Debug\RegistrationCPI.csprojResolveAssemblyReference.cache

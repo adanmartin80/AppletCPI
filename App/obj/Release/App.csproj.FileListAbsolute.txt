@@ -1,0 +1,9 @@
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\bin\Release\App.exe.config
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\bin\Release\App.exe
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\bin\Release\App.pdb
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\obj\Release\App.csprojResolveAssemblyReference.cache
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\obj\Release\App.Form1.resources
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\obj\Release\App.Properties.Resources.resources
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\obj\Release\App.csproj.GenerateResource.Cache
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\obj\Release\App.exe
+C:\Users\fadan\Documents\Visual Studio 2015\Projects\RegisterCPI\App\obj\Release\App.pdb
